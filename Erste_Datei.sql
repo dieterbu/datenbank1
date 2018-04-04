@@ -2,3 +2,4 @@
 DROP DATABASE IF EXISTS dummy;
 CREATE DATABASE dummy;
 USE dummy;
+CREATE TABLE kunden
