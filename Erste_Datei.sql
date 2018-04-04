@@ -1,4 +1,4 @@
--- Die erste Version meiner Datei
+-- Die zweite Version meiner Datei
 DROP DATABASE dummy;
-CREAT DATABASE dummy;
-USES DATABASE dummy;
+CREATE DATABASE dummy;
+USE dummy;
